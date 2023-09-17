@@ -11,7 +11,7 @@
 	"throttle": "100",
 	"brake": "0",
 	"time": "10:11",
-	"engagedGear": "P",
+	"engagedGear": "D",
 	"speed" : "80"
 	},
 	"1":{"drivingTimes":{
