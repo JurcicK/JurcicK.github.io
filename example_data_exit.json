@@ -1,0 +1,32 @@
+{
+	0:{"drivingTimes":{
+		"dailyDrive" : "01:15",
+		"dailyTotal" : "11:00",
+		"untilBreakhrs" :"2:15"
+	},
+	"energyInfo":{
+		"range" : "200",
+		"consumptionKm" : "1,1"
+	},
+	"throttle": "100",
+	"brake": "0",
+	"time": "10:11",
+	"engagedGear": "P",
+	"speed" : "80"
+	},
+	1:{"drivingTimes":{
+		"dailyDrive" : "01:16",
+		"dailyTotal" : "11:00",
+		"untilBreakhrs" :"2:14"
+	},
+	"energyInfo":{
+		"range" : "200",
+		"consumptionKm" : "1,1"
+	},
+	"throttle": "100",
+	"brake": "0",
+	"time": "10:12",
+	"engagedGear": "P",
+	"speed" : "80"
+	},
+}
