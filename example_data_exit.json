@@ -1,5 +1,5 @@
 {
-	0:{"drivingTimes":{
+	"0":{"drivingTimes":{
 		"dailyDrive" : "01:15",
 		"dailyTotal" : "11:00",
 		"untilBreakhrs" :"2:15"
@@ -14,7 +14,7 @@
 	"engagedGear": "P",
 	"speed" : "80"
 	},
-	1:{"drivingTimes":{
+	"1":{"drivingTimes":{
 		"dailyDrive" : "01:16",
 		"dailyTotal" : "11:00",
 		"untilBreakhrs" :"2:14"
