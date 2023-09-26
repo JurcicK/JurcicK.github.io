@@ -1,8 +1,9 @@
 {
-	0:{"drivingTimes":{
+	"0":{"drivingTimes":{
 		"dailyDrive" : "08:21",
 		"dailyTotal" : "09:00",
-		"untilBreakhrs" :"0:39"
+		"untilBreakhrs" :"0:39",
+		"naviTime": "1:44"
 	},
 	"energyInfo":{
 		"range" : "200",
@@ -10,14 +11,15 @@
 	},
 	"throttle": "100",
 	"brake": "0",
-	"time": "18:21",
+	"time": "18:55",
 	"engagedGear": "D",
 	"speed" : "80"
 	},
-	1:{"drivingTimes":{
+	"1":{"drivingTimes":{
 		"dailyDrive" : "08:22",
 		"dailyTotal" : "09:00",
-		"untilBreakhrs" :"0:38"
+		"untilBreakhrs" :"0:38",
+		"naviTime": "1:43"
 	},
 	"energyInfo":{
 		"range" : "200",
@@ -25,14 +27,15 @@
 	},
 	"throttle": "100",
 	"brake": "0",
-	"time": "18:22",
+	"time": "18:56",
 	"engagedGear": "D",
 	"speed" : "80"
 	},
-	2:{"drivingTimes":{
+	"2":{"drivingTimes":{
 		"dailyDrive" : "08:23",
 		"dailyTotal" : "09:00",
-		"untilBreakhrs" :"0:37"
+		"untilBreakhrs" :"0:37",
+		"naviTime": "1:42"
 	},
 	"energyInfo":{
 		"range" : "200",
@@ -40,7 +43,7 @@
 	},
 	"throttle": "100",
 	"brake": "0",
-	"time": "18:23",
+	"time": "18:57",
 	"engagedGear": "D",
 	"speed" : "80"
 	}
