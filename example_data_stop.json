@@ -1,0 +1,50 @@
+{
+	"0":{"drivingTimes":{
+		"dailyDrive" : "05:55",
+		"dailyTotal" : "09:00",
+		"untilBreakhrs" :"03:05",
+		"naviTime": "3:44"
+	},
+	"energyInfo":{
+		"range" : "520",
+		"consumptionKm" : "1,6"
+	},
+	"throttle": "100",
+	"brake": "0",
+	"time": "12:15",
+	"engagedGear": "D",
+	"speed" : "80"
+	},
+	"1":{"drivingTimes":{
+		"dailyDrive" : "05:56",
+		"dailyTotal" : "09:00",
+		"untilBreakhrs" :"03:04",
+		"naviTime": "03:43"
+	},
+	"energyInfo":{
+		"range" : "520",
+		"consumptionKm" : "1,6"
+	},
+	"throttle": "100",
+	"brake": "0",
+	"time": "12:16",
+	"engagedGear": "D",
+	"speed" : "80"
+	},
+	"2":{"drivingTimes":{
+		"dailyDrive" : "05:57",
+		"dailyTotal" : "09:00",
+		"untilBreakhrs" :"03:03",
+		"naviTime": "03:42"
+	},
+	"energyInfo":{
+		"range" : "520",
+		"consumptionKm" : "1,6"
+	},
+	"throttle": "100",
+	"brake": "0",
+	"time": "12:17",
+	"engagedGear": "D",
+	"speed" : "80"
+	}
+}
